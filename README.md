@@ -11,4 +11,4 @@
 *   Anomaly detection using GMM 
 *   Anomaly detection using Isolation Forest
 
-The datasets consist of several medical predictor (independent) variables and one target (dependent) variable, Outcome. Independent variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.
+We are going to work on diabetes dataset.The datasets consist of several medical predictor (independent) variables and one target (dependent) variable, Outcome. Independent variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and so on.If outcome is 1,the person is having diabetes and if it zero,no diabetes.
